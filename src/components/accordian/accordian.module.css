@@ -1,0 +1,44 @@
+.wrapper {
+   display: flex;
+   flex-direction: column;
+   gap: 20px;
+    justify-content: center;
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh; 
+}
+.wrapper button{
+    padding: 10px 10px;
+    background-color:rgb(170, 160, 22);
+    border: none;
+    color: white;
+    border-radius: 10;
+}
+
+.accordion {
+    width: 50%;
+  
+    
+}
+
+.item {
+    background-color: rgb(170, 160, 22);
+    
+}
+
+.title {
+    
+    cursor: pointer; /* Make the title clickable */
+}
+
+.title h3 {
+    
+}
+
+.title span {
+    
+}
+
+.content {
+   width: 50%;
+}
